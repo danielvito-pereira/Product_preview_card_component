@@ -1,0 +1,37 @@
+@media (min-width:1000px) {
+  #content {
+    background: var(--White);
+    text-align: left;
+    padding: 1rem;
+    border-top-right-radius: 0.7rem;
+    border-bottom-right-radius: 0.7rem;
+    border-bottom-left-radius: 0;
+    height: 80%;
+    width: 30%;
+    
+  }
+
+
+  h1 {
+    font-size:60px;
+  }
+  
+  h2{
+    font-size:24px;
+  }
+
+  p {
+    font-size:24px;
+
+  }
+  .verde {
+    font-size: 3rem;
+    margin-right: 1rem;
+  }
+
+  .button {
+    width: 100%;
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+  }
+}

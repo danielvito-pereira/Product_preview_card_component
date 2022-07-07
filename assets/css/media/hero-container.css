@@ -1,0 +1,14 @@
+
+@media (min-width:1000px) {
+  #hero-container img {
+    height: 100%;
+    width: 100%;
+    border-top-left-radius: 0.7rem;
+    border-bottom-left-radius: 0.7rem;
+    border-top-right-radius: 0;
+  }
+  #hero-container {
+    height: 83.2%;
+    width: 30%;
+  }
+}
