@@ -1,0 +1,16 @@
+.button {
+  width: 100%;
+  border-radius: 0.5rem;
+  padding: 0.8rem;
+
+  color: var(--White);
+  border: none;
+  font-size:17px;
+}
+button {
+  background-color: var(--Dark_cyan);
+}
+.button:hover{
+  background-color: var(--Very_dark_blue);
+  transition: 0.2s ease-out;
+}
