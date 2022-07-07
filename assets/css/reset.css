@@ -1,7 +1,13 @@
+ :root {
+  --Dark_cyan:hsl(158, 36%, 37%);
+  --Cream: hsl(30, 38%, 92%);
+ }
+
 body {
   width: 100%;
   height: 100%;
   overflow: overlay;
+  background-color: var(--Cream);
 }
 
 *, body,h1,h2,h3{
